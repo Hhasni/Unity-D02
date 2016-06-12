@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../lastD04/Assets/Scripts/StageSelecteScript.cs">
+    <Files>
+      <File FileName="../lastD04/Assets/Scripts/RingTmpScript.cs" Line="26" Column="2" />
+      <File FileName="../lastD04/Assets/Scripts/Sonic.cs" Line="198" Column="1" />
+      <File FileName="../lastD04/Assets/Scripts/RingsScript.cs" Line="1" Column="1" />
+      <File FileName="../lastD04/Assets/Scripts/SpikeScript.cs" Line="25" Column="2" />
+      <File FileName="../lastD04/Assets/Scripts/StageSelecteScript.cs" Line="17" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
